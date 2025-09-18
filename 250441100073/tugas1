@@ -1,0 +1,11 @@
+tugas = 85
+uts = 75
+uas = 90
+
+a = 0.3
+b = 0.3
+c = 0.4
+
+nilai_akhir = (tugas * a) + (uts * b) + (uas * c)
+
+print ("Nilai akhir adalah:", nilai_akhir)
